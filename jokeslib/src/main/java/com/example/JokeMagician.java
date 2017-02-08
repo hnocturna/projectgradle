@@ -135,12 +135,12 @@ public class JokeMagician {
             "A guy is browsing in a pet shop and sees a parrot sitting on a little perch. It doesn't have any feet or legs. The guy says aloud, \"Jeesh. I wonder what happened to this Parrot?\"\n" +
                     "The parrot says, \"I was born this way. I'm a defective parrot.\"\n" +
                     "\"Holy shit,\" the guy replies. \"You actually understood and answered me!\"\n" +
-                    "\"I got every word,\" says the parrot.” I happen to be a highly intelligent, thoroughly educated bird.\"\n" +
+                    "\"I got every word,\" says the parrot.\" I happen to be a highly intelligent, thoroughly educated bird.\"\n" +
                     "\"Oh yeah?\", the guy asks, \"Then answer this -- how do you hang onto your perch without any feet?\"\n" +
                     "\"Well,\" the parrot says, \"this is very embarrassing but since you asked, I wrap my willie around this wooden bar like a little hook. You can't see it because of my feathers.\"\n" +
                     "\"Wow\" says the guy, \"you really can understand and speak English, can't you!?\"\n" +
                     "\"Actually, I speak both Spanish and English and I can converse with reasonable competence on almost any topic: politics, religion, sports, physics, philosophy. I'm especially good at ornithology. You really ought to buy me. I'd be a great companion.\"\n" +
-                    "The guy looks at the $200 price tag.” Sorry, but I just can't afford that.\"\n" +
+                    "The guy looks at the $200 price tag.\" Sorry, but I just can't afford that.\"\n" +
                     "\"Pssssssst\" says the parrot, \"I'm defective, so the truth is, nobody wants me cause I don't have any feet. You can probably get me for $20, just make the guy an offer!\"\n" +
                     "The guy offers $20 and walks out with the parrot. Weeks go by. The parrot is sensational. He has a great sense of humour, he's interesting, he's a great pal, he understands everything, he sympathizes, and he's insightful.\n" +
                     "The guy is delighted. One day the guy comes home from work and the parrot goes \"Psssssssssssst\" and motions him over with one wing. \"I don't know if I should tell you this or not, but it's about your wife and the postman.\"\n" +
@@ -183,16 +183,16 @@ public class JokeMagician {
                     "So they started playing and enjoyed the game and the company of the newcomer. Part way around the course, one of the friends asked the newcomer,\n" +
                     "\"What do you do for a living?\"\n" +
                     "I’m a hit man,\" was the reply.\n" +
-                    "\"You're joking!” was the response.\n" +
+                    "\"You're joking!\" was the response.\n" +
                     "\"No, I'm not,\" he said, reaching into his golf bag, and pulling out a beautiful Martini sniper's rifle with a large telescopic sight. \"Here are my tools.\"\n" +
-                    "That's a beautiful telescopic sight,” said the other friend, \"Can I take a look? I think I might be able to see my house from here\".\n" +
+                    "That's a beautiful telescopic sight,\" said the other friend, \"Can I take a look? I think I might be able to see my house from here\".\n" +
                     "So he picked up the rifle and looked through the sight in the direction of his house.\n" +
                     "\"Yeah, I can see my house all right. \"This sight is fantastic. I can see right in the window. Wow, I can see my wife in the bedroom\".\n" +
                     "\"Ha Ha, I can see she's naked!! Wait a minute, that's my neighbor in there with her......He's naked, too!!! The bitch!\"\n" +
                     "He turned to the hit man. “How much do you charge for a hit?\"\n" +
                     "\"I'll do a flat rate, for you: One thousand dollars every time I pull the trigger.\"\n" +
                     "\"Can you do two for me now?\"\n" +
-                    "“Sure, what do you want?”\n" +
+                    "“Sure, what do you want?\"\n" +
                     "\"First, shoot my wife; she's always been mouthy, so shoot her in the mouth. Then the neighbor, he's supposed to be a friend of mine, so just shoot his dick off to teach him a lesson.\"\n" +
                     "The hit man took the rifle and took aim, standing perfectly still for a few minutes.\n" +
                     "“Are you gonna do it or not?\" asked the friend impatiently.\n" +
