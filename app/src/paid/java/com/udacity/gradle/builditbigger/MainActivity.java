@@ -6,9 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
-import com.example.JokeMagician;
 import com.hnoct.androidjokelibrary.JokeActivity;
 
 
@@ -45,9 +43,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tellJoke(View view) {
-        JokeMagician jokeMagician = new JokeMagician();
-        String joke = jokeMagician.getJoke();
-        startActivity(new Intent(this, JokeActivity.class).putExtra(JokeActivity.JOKE_EXTRA, joke));
+//        JokeMagician jokeMagician = new JokeMagician();
+//        String joke = jokeMagician.getJoke();
+        EndpointAsyncTask endpointAsyncTask = new EndpointAsyncTask(new JokeResponse() {
+            @Override
+            public void getJokeResponse(String joke) {
+                startActivity(new Intent(MainActivity.this, JokeActivity.class).putExtra(JokeActivity.JOKE_EXTRA, joke));
+            }
+        });
+        endpointAsyncTask.execute();
 //        Toast.makeText(this, joke,Toast.LENGTH_LONG).show();
     }
 
